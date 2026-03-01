@@ -1,3 +1,8 @@
+# Course Index
+
+1. Installing Ollama, initial project setup using UV
+2. Foundations & Chat Completions API
+
 # Jupyter Notebook Ollama Example
 
 This project demonstrates how to use a Jupyter notebook to call a local Ollama server for LLM inference, with configuration managed by python-dotenv.
