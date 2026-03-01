@@ -1,0 +1,7 @@
+# Use uv for package management
+# To install dependencies, run:
+#   uv pip install -r requirements.txt
+jupyter
+requests
+python-dotenv
+beautifulsoup4
